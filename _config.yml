@@ -52,7 +52,7 @@ round-avatar: true
 social-network-links:
   email: "irogers@google.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: ian.rogers.1671
+#  facebook: ian.rogers.1671
   github: captain5050
   twitter: iiirogers
 #  patreon: DeanAttali
@@ -92,7 +92,7 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
   twitter: true
   facebook: false
-  linkedin: true
+  linkedin: false
   mastodon: true
   vk: false
 
