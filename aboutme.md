@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a staff engineer for Google working on the Linux kernel's performance monitoring support, and have been involved in programming languages and performance from mobile to cloud.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am well known for my contributions to Java. I was a tech-lead for the [ART project](https://source.android.com/docs/core/runtime) within [Android](https://www.android.com/). Before this I was a senior engineer at [Azul Systems](https://www.azul.com/), where we coaxed an x86 to do what previously custom hardware had been necessary for, namely pauseless massively concurrent GC with terabytes of heap.
 
-What else do you need?
+Before this I was a research fellow at the University of Manchester working on the [Jamaica project](http://apt.cs.manchester.ac.uk/), designing future computer architectures, compilers, binary translators and operating systems. I have had research interests in GPUs, asynchronous hardware, network security, real-time network protocols and e-learning.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Before this I was tech-lead/manager for, and one of the original developers of, what became [Apple's Rosetta](https://en.wikipedia.org/wiki/Rosetta_(software)).
