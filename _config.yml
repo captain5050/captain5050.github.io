@@ -50,16 +50,17 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "irogers@google.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#  facebook: ian.rogers.1671
+  mastodon: fosstodon.org/@irogers
+  email: "rogers.email@gmail.com"
   github: captain5050
   twitter: iiirogers
+  linkedin: irogers
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: ian.rogers.1671
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: irogers
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -70,8 +71,7 @@ social-network-links:
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
-#  calendly: yourname
-  mastodon: fosstodon.org/@irogers
+#  calendly: yougooglername
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
