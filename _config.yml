@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Ian Rogers
 
 # Your name to show in the footer
-author: Some Person
+author: Ian Rogers
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://captain5050.github.io/"
 
 ################
 # --- Logo --- #
@@ -50,16 +50,16 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "irogers@google.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
+  facebook: ian.rogers.1671
+  github: captain5050
+  twitter: iiirogers
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: irogers
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -71,8 +71,7 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-#  mastodon: instance.url/@username
-#  bluesky: yourname
+mastodon: fosstodon.org/@irogers
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
@@ -94,11 +93,12 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
+  mastodon: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "captain5050.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
