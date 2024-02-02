@@ -301,3 +301,11 @@ Vulnerabilities:
   Srbds:                 Not affected
   Tsx async abort:       Not affected
 ```
+
+Another data source is the [ARM Main ID Register
+(midr)](https://www.kernel.org/doc/html/v6.4-rc7/arm64/cpu-feature-registers.html)
+whose function is similar to the x86 cpuid instruction:
+```shell
+$ cat /sys/devices/system/cpu/cpu0/regs/identification/midr_el1
+0x00000000414fd0b1
+```
